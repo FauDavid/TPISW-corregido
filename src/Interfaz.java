@@ -11,4 +11,8 @@ public class Interfaz {
         frame.setVisible(true);
     }
 
+    public void funcionalidadpatch1(){
+       //...
+    }
+
 }
