@@ -19,13 +19,8 @@ public class Interfaz {
         //...
     }
 
-    public void modificacionAFeature1(){
+    public void funcionalidadFeature1(){
         //...
     }
-
-    public void modificacionBFeature1(){
-        //...
-    }
-
 
 }
