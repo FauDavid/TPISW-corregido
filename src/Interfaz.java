@@ -13,6 +13,10 @@ public class Interfaz {
 
     public void funcionalidadpatch1(){
        //...
+     }
+
+    public void funcionalidadRelease1(){
+        //...
     }
 
 }
