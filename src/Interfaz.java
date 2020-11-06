@@ -19,4 +19,8 @@ public class Interfaz {
         //...
     }
 
+    public void funcionalidadFeature1(){
+        //...
+    }
+
 }
